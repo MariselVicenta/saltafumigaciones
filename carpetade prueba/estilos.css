@@ -1,0 +1,129 @@
+
+article {border: black;}
+.nav-enlace {display: inline-flexbox;
+    border: gold;border: solid;
+    text-decoration: none;
+padding: auto;
+width: 90%;
+text-align: justify;
+
+background-color: black; color: darkorange;
+ padding: 10px 20px;}
+.nav-enlace:hover{
+background-color: rgb(160, 150, 150);
+border-radius: 10px;
+color: ivory;
+margin: 2em 1em 1em 1em;
+}
+.primertitulo {display: flexbox;  color: gold;
+margin: 1em 2em 1em 0;
+width: 90%;}
+
+.portafotos {display: flexbox;
+    flex-wrap:wrap;
+    flex-direction: row;
+}
+    
+    
+    }
+    
+.foto1 {width: 33%;}
+
+.cabeza {display: flexbox;
+width: 90%;
+
+background-color: black;
+border-color: gold;
+border-style: solid;
+border-radius: 5px;
+margin: 2em 2em 2em 0;
+
+
+}
+
+#barra {margin: 2em 2em 2em 0;
+display:flex;
+width: 50%;}
+
+.formulario {display: flexbox;
+}
+
+div.haced {display: flexbox;font-size: 4em;
+width: 90%;
+margin: 2em 2em 2em 0;
+background-image:url("imagenes/fondodepiedra.jpg");
+background-size: 95%;
+padding: auto;
+text-align: center;
+border: black;
+border-width: unset;
+font-family: serif;
+font:normal;
+ 
+}
+.blsf{border: black;}
+.blogsf{border: black;}
+.procesosf{display: inline-flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: black;
+    border-radius: 5px;
+    border-width: unset;
+    background-color: rgb(209, 41, 80);
+    font-family: serif;
+    
+}
+div.primero{display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+    vertical-align: baseline;
+    border: rgb(233, 224, 224);
+    border-style: outset;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(12, 12, 11);
+    margin: 1em ;
+    max-width: 500px;
+}
+div.segundo{border:white;
+    
+        border-style: outset;
+    border-right: 8px;
+        border-radius: 5px;
+    background-color:rgb(248, 140, 9);
+    color: ghostwhite;margin: 2em 2em 2em 2em;
+font-family: serif;
+font-size: 30px;
+max-width: 90%;
+text-align: center;
+margin: 1em;}
+.barralateral{border: black;
+font-family: serif;
+font-size: 20px;
+width: 90%;} 
+div.tercero {background-color: seagreen; color: white;
+     display: inline-flexbox;
+    margin: 1em;
+padding: auto;
+border-style: outset ;
+border-width: 8px;
+border-radius: 5px;
+font-family: serif;
+font-size: 30px;
+max-width: 500px;
+}
+div.intro {color:black; size: 10px;
+width: 50%;
+max-width: 500px;
+margin: 1em;
+border-style: outset;border-radius: 5px;
+border-width: medium;
+border-color: darkorange;
+padding: 1em; }
+.primero2 {display: inline-flex;
+ flex-direction: row;
+ background-color: dimgray; 
+ margin: 1em;  
+}
+#intro {display: flexbox;
+flex-direction: row;}
